@@ -1,1 +1,17 @@
-magisk app
+    {
+        "ads": {"network":"applovin","url":""},
+        "reword": {"items":""},
+        
+        "fan": {
+        "banner":"",
+        "inter":"",
+        "nativ":"",
+        "reword":""},
+        
+        "applovin": {
+        "banner":"72e90d084709f24c",
+        "inter":"37f5f806cd37c87d",
+        "nativ":"7b8d5c1cfbe72552",
+        "reword":"22239471810f79c5"}
+          
+        }
